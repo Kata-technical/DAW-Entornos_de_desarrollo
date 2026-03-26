@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: david
+Build-Jdk: 21.0.8
+Main-Class: com.gsd.programacion.App
+Created-By: Maven Integration for Eclipse
+
